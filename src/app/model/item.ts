@@ -2,5 +2,5 @@ export class Item{
     id!: number;
     product!: string;
     price!: number;
-    quatity!: number;
+    quantity!: number;
 }

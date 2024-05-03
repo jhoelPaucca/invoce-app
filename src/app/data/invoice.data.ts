@@ -12,7 +12,6 @@ export const invoiceData: Invoice = {
             street: 'AA.HH.Señor de Luren',
             number: 15,
         }
-
     },
     company: {
         name: 'New Age',
@@ -36,6 +35,30 @@ export const invoiceData: Invoice = {
             product: 'Monitor Asus',
             price: 899,
             quantity: 3
+        },
+        {
+            id: 4,
+            product: 'Empresa Sac',
+            price: 699,
+            quantity: 4
+        },
+        {
+            id: 5,
+            product: 'Supremercado',
+            price: 544,
+            quantity: 5
+        },
+        {
+            id: 6,
+            product: 'Industrias',
+            price: 944,
+            quantity: 6
+        },
+        {
+            id: 7,
+            product: 'Santa Rosa SAC',
+            price: 633,
+            quantity: 7
         },
     ]
 }
